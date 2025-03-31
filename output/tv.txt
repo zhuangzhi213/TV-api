@@ -1,24 +1,20 @@
 央视,#genre#
-CCTV-5,http://219.159.91.10:9901/tsfile/live/0005_1.m3u8
-CCTV-7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
+CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 CCTV-7,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
+CCTV-7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
 
 数字,#genre#
 
 卫视,#genre#
 北京卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
 浙江卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
-江苏卫视,http://nctv.top/IDOEPpiryt/jstv5.php?id=jsws
 湖南卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
 安徽卫视,http://43.129.81.169/live.ahsx.ahtv.cn/live/ahwssx.m3u8
-广东卫视,http://nctv.top/IDOEPpiryt/migu.php?id=gdws
 深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
-东南卫视,http://nctv.top/IDOPEpiryt/fjtv.php?id=5
 香港卫视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hkphoenix_twn/playlist.m3u8
 湖北卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
 江西卫视,http://43.129.81.169/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
-河南卫视,http://nctv.top/IDOPEpiryt/hntv.php?id=hnws
 黑龙江卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
 云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
 广西卫视,http://43.129.81.169/9bwaz8y2.gzstv.com/live/CH01_lo.m3u8
@@ -27,6 +23,7 @@ CCTV-7,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?t
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
 安多卫视,https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
 西藏卫视,http://www.lysvc.cc/daili/xztv.php?id=0
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 NTV,#genre#
@@ -50,8 +47,6 @@ IHOT,#genre#
 陕西,#genre#
 
 综合,#genre#
-湖北经视,http://183.94.1.118:8801/tsfile/live/1017_1.m3u8
-广东卫视,http://nctv.top/IDOEPpiryt/migu.php?id=gdws
 大湾区卫视,http://38.64.72.148/hls/modn/list/4011/chunklist0.m3u8
 梨园,http://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
 内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
@@ -107,4 +102,4 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 
 更新,#genre#
-2025-03-31 18:29:42,http://219.159.91.10:9901/tsfile/live/0005_1.m3u8
+2025-04-01 06:26:03,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
