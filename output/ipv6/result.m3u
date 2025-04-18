@@ -1989,6 +1989,8 @@ http://livealone302.iqilu.com/iqilu/shpd.m3u8
 http://livealone302.iqilu.com/iqilu/typd.m3u8
 #EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://tv-icon.pages.dev/山东综艺.png" group-title="山东频道",山东综艺
 http://livealone302.iqilu.com/iqilu/zypd.m3u8
+#EXTINF:-1 tvg-name="济南新闻综合" tvg-logo="https://tv-icon.pages.dev/济南新闻综合.png" group-title="山东频道",济南新闻综合
+https://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 #EXTINF:-1 tvg-name="青州综合" tvg-logo="https://tv-icon.pages.dev/青州综合.png" group-title="山东频道",青州综合
 https://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 #EXTINF:-1 tvg-name="济宁公共" tvg-logo="https://tv-icon.pages.dev/济宁公共.png" group-title="山东频道",济宁公共
@@ -2459,5 +2461,5 @@ http://luobo.bkpcp.top/yy/1382745184
 http://live.iill.top/yy.php?id=1382745184
 #EXTINF:-1 tvg-name="射雕英雄传" tvg-logo="https://tv-icon.pages.dev/射雕英雄传.png" group-title="经典剧场",射雕英雄传
 http://live.iill.top/yy.php?id=1354210357
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tv-icon.pages.dev/CCTV1.png" group-title="🕘️更新时间",2025-04-18 06:45:18
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tv-icon.pages.dev/CCTV1.png" group-title="🕘️更新时间",2025-04-18 18:45:24
 http://dsj.motem.top:8880/gaoma/cctv1.m3u8

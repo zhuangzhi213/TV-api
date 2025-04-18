@@ -1040,6 +1040,7 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 山东生活,http://livealone302.iqilu.com/iqilu/shpd.m3u8
 山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
 山东综艺,http://livealone302.iqilu.com/iqilu/zypd.m3u8
+济南新闻综合,https://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 青州综合,https://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8?shandd
 济宁公共,https://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
@@ -1299,4 +1300,4 @@ NewTV动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=ysten
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 
 🕘️更新时间,#genre#
-2025-04-18 06:45:18,http://dsj.motem.top:8880/gaoma/cctv1.m3u8
+2025-04-18 18:45:24,http://dsj.motem.top:8880/gaoma/cctv1.m3u8
