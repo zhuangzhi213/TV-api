@@ -1699,6 +1699,8 @@ https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 tvg-name="石棉综合" tvg-logo="https://tv-icon.pages.dev/石棉综合.png" group-title="四川频道",石棉综合
 http://live.hyxrmt.com:85/live/xwpd.m3u8
+#EXTINF:-1 tvg-name="石棉综合" tvg-logo="https://tv-icon.pages.dev/石棉综合.png" group-title="四川频道",石棉综合
+http://live.dameijunlian.cn:80/live1/live1.m3u8
 #EXTINF:-1 tvg-name="筠连综合" tvg-logo="https://tv-icon.pages.dev/筠连综合.png" group-title="四川频道",筠连综合
 http://live.dameijunlian.cn:80/live1/live1.m3u8
 #EXTINF:-1 tvg-name="荥经综合" tvg-logo="https://tv-icon.pages.dev/荥经综合.png" group-title="四川频道",荥经综合
@@ -2469,5 +2471,5 @@ http://luobo.bkpcp.top/yy/1382745184
 http://live.iill.top/yy.php?id=1382745184
 #EXTINF:-1 tvg-name="射雕英雄传" tvg-logo="https://tv-icon.pages.dev/射雕英雄传.png" group-title="经典剧场",射雕英雄传
 http://live.iill.top/yy.php?id=1354210357
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tv-icon.pages.dev/CCTV1.png" group-title="🕘️更新时间",2025-04-19 18:49:26
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tv-icon.pages.dev/CCTV1.png" group-title="🕘️更新时间",2025-04-20 06:44:05
 http://dsj.motem.top:8880/gaoma/cctv1.m3u8
