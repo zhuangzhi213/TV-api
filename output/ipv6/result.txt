@@ -1305,4 +1305,4 @@ NewTV动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=ysten
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 
 🕘️更新时间,#genre#
-2025-04-20 06:44:05,http://dsj.motem.top:8880/gaoma/cctv1.m3u8
+2025-04-20 18:49:57,http://dsj.motem.top:8880/gaoma/cctv1.m3u8
