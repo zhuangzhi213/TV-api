@@ -2366,8 +2366,6 @@ http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://tv-icon.pages.dev/纬来体育.png" group-title="港澳台",纬来体育
 http://live_bin.m16tv.cfd/stream/test/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://tv-icon.pages.dev/纬来体育.png" group-title="港澳台",纬来体育
-http://aktv_stream1.m16tv.cfd/stream/aktv3/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://tv-icon.pages.dev/纬来体育.png" group-title="港澳台",纬来体育
 http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://tv-icon.pages.dev/无线新闻.png" group-title="港澳台",无线新闻
 http://live_bin.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
@@ -2529,5 +2527,5 @@ http://luobo.bkpcp.top/yy/1382745184
 http://live.iill.top/yy.php?id=1382745184
 #EXTINF:-1 tvg-name="射雕英雄传" tvg-logo="https://tv-icon.pages.dev/射雕英雄传.png" group-title="经典剧场",射雕英雄传
 http://live.iill.top/yy.php?id=1354210357
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tv-icon.pages.dev/CCTV1.png" group-title="🕘️更新时间",2025-04-22 06:44:26
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tv-icon.pages.dev/CCTV1.png" group-title="🕘️更新时间",2025-04-22 18:53:08
 http://dsj.motem.top:8880/gaoma/cctv1.m3u8
