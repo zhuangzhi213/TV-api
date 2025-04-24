@@ -1210,7 +1210,6 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰资讯,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-凤凰资讯,http://live_bin.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 凤凰资讯,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 凤凰资讯,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
@@ -1218,6 +1217,7 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰香港,http://live_bin.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
@@ -1257,6 +1257,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 无线新闻,http://aktv-stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 三立新闻,https://tv.iill.top/4gtv/229
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 
 电影频道,#genre#
 CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
@@ -1301,6 +1302,7 @@ NewTV动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=ysten
 经典电影,http://tv.scjyhd.com:4022/udp/239.93.0.57:9024
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 星空卫视,http://tv.scjyhd.com:4022/udp/239.93.0.156:2193
+东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 
 经典剧场,#genre#
 伪装者,http://luobo.bkpcp.top/yy/1354936244
@@ -1334,4 +1336,4 @@ NewTV动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=ysten
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 
 🕘️更新时间,#genre#
-2025-04-24 06:43:59,http://dsj.motem.top:8880/gaoma/cctv1.m3u8
+2025-04-24 18:44:49,http://dsj.motem.top:8880/gaoma/cctv1.m3u8
