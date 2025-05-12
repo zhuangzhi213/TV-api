@@ -15,7 +15,11 @@ class ChannelData(TypedDict):
     resolution: NotRequired[str | None]
     origin: OriginType
     ipv_type: IPvType
+    location: NotRequired[str | None]
+    isp: NotRequired[str | None]
     headers: NotRequired[dict[str, str] | None]
+    catchup: NotRequired[dict[str, str] | None]
+    extra_info: NotRequired[str]
 
 
 CategoryChannelData = dict[str, dict[str, list[ChannelData]]]
@@ -27,7 +31,7 @@ class TestResult(TypedDict):
     """
     speed: int | float | None
     delay: int | float | None
-    resolution: str | None
+    resolution: int | str | None
 
 
 TestResultCacheData = dict[str, list[TestResult]]
